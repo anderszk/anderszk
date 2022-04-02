@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anders Kristensen</h1>
-<h3 align="center">Student at NTNU, Trondheim🌟.</h3>
+<h3 align="center">Electronics Engineer student at NTNU, Trondheim🌟.</h3>
 
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Web Development using React.js and development in Wordpress
+
+- 🤔 Curious about UI/UX and Interaction Design
 
 - 📫 How to reach me **anderszk@stud.ntnu.no**
 
@@ -34,6 +36,12 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap" width="40" height="40" /> </a>
+  <a href="https://www.cprogramming.com/" target="_blank"
+    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c" width="40" height="40" /> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="40" height="40" /> </a> 
@@ -48,17 +56,32 @@
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a> 
+<br>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
       height="40" /> </a> 
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> 
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> 
+     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs" width="40" height="40" /> </a>
+     <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"
+      alt="wordpress" width="40" height="40" /> </a>
   </p>
+<br>
 
+<h3 align="left">Other Tools:</h3>
+<p align="left">
+  <ul>
+    <li>FPGA (VHDL)</li>
+    <li>AVR (C)</li>
+    <li>Arduino (Arduino-C)</li>
+    <li>MyDaq (LabVIEW)</li>
+    <li>nRF52840/52832 (C)</li>
+  </ul>
+</p>
 <br>
 
 <h3>Statistical Data :</h3>

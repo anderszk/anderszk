@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anders Kristensen</h1>
-<h3 align="center">Electronics Engineer student at NTNU, Trondheim🌟.</h3>
+<h3 align="center">Student at NTNU, Trondheim🌟.</h3>
 
 <br>
 

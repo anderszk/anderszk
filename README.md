@@ -68,6 +68,19 @@
      <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"
       alt="wordpress" width="40" height="40" /> </a>
+    <a href="https://figma.com/" target="_blank" rel="noreferrer"> <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+        alt="figma" width="40" height="40" /> </a>
+      <a href="https://arduino.com/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"
+      alt="arduino-c" width="40" height="40" /> </a>
+      <a href="https://labview.com/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg"
+      alt="labview" width="40" height="40" /> </a>
+  
+  
+  
+  
   </p>
 <br>
 
@@ -79,7 +92,7 @@
     <li>Arduino (Arduino-C)</li>
     <li>MyDaq (LabVIEW)</li>
     <li>nRF52840/52832 (C)</li>
-    <li>Figma</li>
+    <li>MS Power BI</li>
   </ul>
 </p>
 <br>

@@ -6,13 +6,12 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development using React.js and development in Wordpress
+- 🌱 Webdeveloping and webdesign!
 
 - 🤔 Curious about UI/UX and Interaction Design
 
 - 📫 How to reach me **anderszk@stud.ntnu.no**
 
-- 🌐 Check out some of my web-projects : **https://anderszk.blog/**.
 
 <br>
 
@@ -80,6 +79,7 @@
     <li>Arduino (Arduino-C)</li>
     <li>MyDaq (LabVIEW)</li>
     <li>nRF52840/52832 (C)</li>
+    <li>Figma</li>
   </ul>
 </p>
 <br>

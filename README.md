@@ -89,8 +89,6 @@
   <ul>
     <li>FPGA (VHDL)</li>
     <li>AVR (C)</li>
-    <li>Arduino (Arduino-C)</li>
-    <li>MyDaq (LabVIEW)</li>
     <li>nRF52840/52832 (C)</li>
     <li>MS Power BI</li>
   </ul>

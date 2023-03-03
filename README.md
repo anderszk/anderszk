@@ -74,9 +74,19 @@
       <a href="https://arduino.com/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"
       alt="arduino-c" width="40" height="40" /> </a>
-      <a href="https://labview.com/" target="_blank" rel="noreferrer"> <img
+    <a href="https://labview.com/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg"
       alt="labview" width="40" height="40" /> </a>
+ <br>
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://vvcestudio.com.br/static/assetsv5/img/codigo/logothreejs.png"
+      alt="three.js" width="40" height="40" /> </a>
+  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png"
+      alt="MSPowerBI" width="40" height="40" /> </a>
+  
+  
+  
   
   
   
@@ -90,7 +100,6 @@
     <li>FPGA (VHDL)</li>
     <li>AVR (C)</li>
     <li>nRF52840/52832 (C)</li>
-    <li>MS Power BI</li>
   </ul>
 </p>
 <br>

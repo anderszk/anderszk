@@ -35,15 +35,12 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a>
-  <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
+      alt="Tailwind" width="40" height="40" /> </a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"
+      alt="MaterialUI" width="40" height="40" /> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
@@ -55,32 +52,35 @@
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a> 
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"
+      alt="Typescript" width="40" height="40" /> </a> 
 <br>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
       height="40" /> </a> 
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+     <a href="https://arduino.com/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"
+      alt="arduino-c" width="40" height="40" /> </a>
+     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> 
      <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="reactjs" width="40" height="40" /> </a>
+     <a href="https://figma.com/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+      alt="figma" width="40" height="40" /> </a>
+     <a href="https://labview.com/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg"
+      alt="labview" width="40" height="40" /> </a>
+     <a href="https://www.cprogramming.com/" target="_blank"
+      rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c" width="40" height="40" /> </a>
+ <br>
      <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"
       alt="wordpress" width="40" height="40" /> </a>
-    <a href="https://figma.com/" target="_blank" rel="noreferrer"> <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-        alt="figma" width="40" height="40" /> </a>
-      <a href="https://arduino.com/" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"
-      alt="arduino-c" width="40" height="40" /> </a>
-    <a href="https://labview.com/" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg"
-      alt="labview" width="40" height="40" /> </a>
- <br>
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://vvcestudio.com.br/static/assetsv5/img/codigo/logothreejs.png"
-      alt="three.js" width="40" height="40" /> </a>
   <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png"
       alt="MSPowerBI" width="40" height="40" /> </a>

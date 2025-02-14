@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 Webdeveloping and webdesign!
+- 🌱 Webdevelopment and webdesign!
 
 - 🤔 Curious about UI/UX and Interaction Design
 

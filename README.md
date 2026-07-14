@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anders Kristensen</h1>
-<h3 align="center">Software Engineer @ PwC🌟.</h3>
+<h3 align="center">Software Engineer @ PwC</h3>
 
 <br>
 
